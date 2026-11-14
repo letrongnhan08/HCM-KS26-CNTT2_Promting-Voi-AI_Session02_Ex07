@@ -21,8 +21,10 @@
 Đoạn 3(Lộ trình & Bồi thường): Cung cấp thời gian giao hàng dự kiến và giảm giá cho khách hàng 15% voucher
 
   6. _Extras (E)_: Thông tin voucher và hotline VIP:
- -  Voucher đền bù: Đưa Mã ABC.xxx.xxx giảm 15%
- - Hotline VIP: Hotline VIP là 1234-xxxx dành riêng cho khách hàng để liên hệ
+ 
+ Voucher đền bù: Đưa Mã ABC.xxx.xxx giảm 15%
+ 
+ Hotline VIP: Hotline VIP là 1234-xxxx dành riêng cho khách hàng để liên hệ
 
 **Master Prompt hoàn chỉnh:** Ghép 6 khối trên thành một Master Prompt hoàn chỉnh sẵn sàng thực thi:
 
@@ -42,4 +44,5 @@ Tiêu đề email: Rõ ràng, minh bạch,
 Cuối cùng là xuất ra dạng email để tôi xem và tôi sẽ đưa thông tin voucher và hotline VIP để khách hàng có thể dễ dàng trao đổi với shop bằng hotline và mã voucher để bồi thường cho khách hàng, và bạn phải ghi voucher và hotline vip theo kiểu này [Voucher_Fake]  , [Hotline_VIP_Fake]
 
   - Voucher đền bù: mã voucher là [Voucher_Fake] 15%
+  
   - Hotline VIP: Hotline VIP là [Hotline_VIP_Fake] dành riêng cho khách hàng đặc biệt để liên hệ
